@@ -70,7 +70,7 @@ export default {
         height: 513px;
         width: 100%;
         color: white;
-        
+        padding-top: 10px;
         transform: rotateY(180deg);
     }
     .container-card:hover .card {
