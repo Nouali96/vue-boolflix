@@ -60,6 +60,9 @@ export default {
 
     .front {
         font-size: 30px;
+        background-color: red;
+        height: 513px;
+        width: 100%;
     }
 
     .back {
@@ -72,6 +75,7 @@ export default {
         color: white;
         padding-top: 10px;
         transform: rotateY(180deg);
+        overflow: auto;
     }
     .container-card:hover .card {
         transform: rotateY(180deg);

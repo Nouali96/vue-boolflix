@@ -18,5 +18,9 @@
 </script>
 
 <style lang="scss">
-
+main{
+    background-color: #434343;
+    min-width: 500px;
+    min-height: 1000px;
+}
 </style>
